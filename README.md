@@ -1,4 +1,4 @@
-# Jasmehr Singh
+# JasMehr Singh
 
 MBA student at LM Thapar, with a BBA in Digital Marketing. A marketer who builds: I direct AI (mostly Claude Code) to turn ideas into working tools, then use them every day.
 
